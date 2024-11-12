@@ -4,7 +4,7 @@
   
 - Integrantes ByteBloom Tech
   - RM554113 - Juliana Moreira da Silva - Desenvolvimento ML e DevOps
-  - RM552590 - Kevin Christian Nobre - Desenvolvedor Full Stack .NET e Mobile
+  - RM552590 - Kevin Nobre - Desenvolvedor Full Stack .NET e Mobile
   - RM552728 - Sabrina do Couto Xavier Lima - Desenvolvedora Full Stack Java e Mobile
 
 - **Descrição do Projeto**
